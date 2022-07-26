@@ -1,0 +1,15 @@
+body{
+    background-color: aliceblue;
+}
+#Rdiv1{
+    border: 5px black solid;
+    box-shadow: 5px 5px 30px rgb(56, 56, 56);
+}
+#Rdiv2{
+    border: 5px black solid;
+    box-shadow: 5px 5px 30px rgb(56, 56, 56);
+}
+#Rdiv3{
+    border: 5px black solid;
+    box-shadow: 5px 5px 30px rgb(56, 56, 56);
+}
